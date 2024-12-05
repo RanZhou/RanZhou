@@ -4,7 +4,7 @@
 - :musical_score: [My Bili channel for Music Production and other vlogs](https://space.bilibili.com/85892800)
 - :musical_keyboard: [My Soundclound Channel including some works from an earlier time](https://soundcloud.com/ran-zhou)
 - 💞️ I’m looking to collaborate on projects in machine learning, bioinformatics, computer graphics, and MIDI, sounds.
-- 📫 How to reach me a message via GitHub.
+- 📫 Leave me a message via GitHub here or any above linked channels if you're interested in what I'm doing or simply just say Hi
 
 <!---
 RanZhou/RanZhou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
