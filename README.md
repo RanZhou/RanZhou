@@ -2,7 +2,7 @@
 - 👀 I’m interested in all kinds of interesting things that can be done with codes
 - :musical_note: [My Youtube channel for Music Production](https://www.youtube.com/@DrzStudio)
 - :musical_score: [My Bili channel for Music Production and other vlogs](https://space.bilibili.com/85892800)
-- :musical_keyboard: [My Soundclound Channels including some works from earlier time](https://soundcloud.com/ran-zhou)
+- :musical_keyboard: [My Soundclound Channel including some works from an earlier time](https://soundcloud.com/ran-zhou)
 - 💞️ I’m looking to collaborate on projects in machine learning, bioinformatics, computer graphics, and MIDI, sounds.
 - 📫 How to reach me a message via GitHub.
 
